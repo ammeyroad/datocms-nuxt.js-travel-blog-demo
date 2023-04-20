@@ -16,7 +16,7 @@
       "value": "42"
     },
     "NUXT_ENV_DATOCMS_API_BUNDLE_SAFE_TOKEN": {
-      "type": "datocmsAccessToken",
+      "type": "cd7d05d206e0374deae443562803f9",
       "tokenName": "Bundle-safe, read-only token"
     },
     "NUXT_ENV_DATOCMS_API_DRAFT_ENABLED_TOKEN": {
